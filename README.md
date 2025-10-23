@@ -2,7 +2,7 @@
 	<img src="https://komarev.com/ghpvc/?username=GuilhermeRita&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 <p align = "center">
-	<img height="200" alt="Avatar photo of Guilherme" src="https://github.com/GuilhermeRita/GuilhermeRita/assets/99239411/avatar.jpg">
+	<img height="200" alt="Avatar photo of Guilherme" src="https://github.com/GuilhermeRita/GuilhermeRita/assets/99239411/avatar.png">
 </p>
 
 <div align="center">
@@ -19,13 +19,11 @@
 
 
 
-</details>
-
-</details>
-
-	<summary>Sobre Mim</summary>
 
 
+
+<details>
+<summary>Sobre Mim</summary>
 <div align="left">
 
 ```js
@@ -46,6 +44,7 @@
 ```
 
 </div>
+</details>
 
 <details>
 <summary>Ferramentas</summary>
