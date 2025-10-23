@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Guilhermistico&style=plastic&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=GuilhermeRita&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 
 <p align="center">
@@ -7,23 +7,23 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png" alt="Top of Pokeball"/>
+  <!-- Pokeball animada -->
+  <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" alt="Pokeball Opening" width="150"/>
 
   <details>
     <summary>Open profile</summary>
     <br>
     <div align="center">
-      <img height="200" src="https://github.com/Guilhermistico/Guilhermistico/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar"/>
-      <a href="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&lines=Olá,+eu+sou+Guilherme;Dev+BackEnd+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas">
-        <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&lines=Olá,+eu+sou+Guilherme;Dev+BackEnd+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas" alt="Typing SVG"/>
-      </a>
+      <!-- Avatar -->
+      <img height="200" src="https://github.com/GuilhermeRita/GuilhermeRita/assets/99239411/avatar.png" alt="Avatar"/>
+      <!-- Typing SVG -->
+      <img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&lines=Olá,+eu+sou+Guilherme;Dev+BackEnd+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas" alt="Typing SVG"/>
     </div>
   </details>
 
   <details>
     <summary>About me</summary>
     <br>
-    <div align="left">
 <pre><code class="language-js">
 /**
  * Representa Guilherme.
@@ -38,7 +38,6 @@
  * @param {string} motto - Sempre aprendendo, evoluindo e criando soluções com propósito.
  */
 </code></pre>
-    </div>
   </details>
 
   <details>
@@ -80,8 +79,8 @@
     <summary>GitHub Stats</summary>
     <br>
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Guilhermistico&show_icons=true&theme=radical" alt="GitHub Stats"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermistico&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeRita&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRita&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
     </p>
   </details>
 
