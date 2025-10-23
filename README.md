@@ -1,9 +1,6 @@
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=GuilhermeRita&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
-<p align = "center">
-	<img height="200" alt="Avatar photo of Guilherme" src="https://github.com/GuilhermeRita/GuilhermeRita/assets/99239411/avatar.jpg">
-</p>
 
 <div align="center">
 
