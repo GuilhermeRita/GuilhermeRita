@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img height="200" alt="Avatar photo of Guilherme" src="https://github.com/GuilhermeRita/GuilhermeRita/assets/99239411/avatar.png">
+  <img height="200" alt="Avatar photo of Guilherme" src="https://raw.githubusercontent.com/GuilhermeRita/GuilhermeRita/main/avatar.jpg">
 </p>
 
 <div align="center">
@@ -29,14 +29,14 @@
  * Representa Guilherme.
  *
  * @constructor
- * @param {string} location - São Paulo, Brasil.
- * @param {string} languages - Português, Inglês.
+ * @param {string} Localização - São Paulo, Brasil.
+ * @param {string} Linguas - Português, Inglês, Latim.
  * @param {string} jobTitle - Desenvolvedor Back-End / DBA.
- * @param {string} skills - Java, C++, Visual Basic, JS, SQL, Power BI, Engenharia de Software.
- * @param {string} interests - Aprender novas tecnologias, bancos de dados e sistemas eficientes.
- * @param {string} education - Técnico pela ETEC; ADS na Fatec.
+ * @param {string} Hardskills - Java, C++, Visual Basic, JS, SQL, MYSQL, Power BI, Engenharia de Software.
+ * @param {string} Interesses - Aprender novas tecnologias, bancos de dados e sistemas eficientes.
+ * @param {string} Educação - Técnico em DS pela ETEC; e Formação em ADS pela FATEC.
  * @param {string} approachable - Sim, aberto a projetos e colaborações.
- * @param {string} motto - Sempre aprendendo, evoluindo e criando soluções com propósito.
+ * @param {string} Mais - Sempre aprendendo, evoluindo e criando soluções com propósito.
  */
 ```
 
@@ -62,7 +62,6 @@
   <kbd>
     <kbd>Back-end</kbd><br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express"/>
   </kbd>
   <kbd>
     <kbd>Front-end</kbd><br><br>
