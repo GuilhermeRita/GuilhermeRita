@@ -41,8 +41,8 @@ Gosto de explorar soluções eficientes, aprender novas tecnologias e transforma
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Guilhermistico&show_icons=true&theme=radical&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermistico&layout=compact&langs_count=7&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRita&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRita&layout=compact&langs_count=7&theme=radical" />
 </p>
 
 ---
@@ -54,5 +54,4 @@ Gosto de explorar soluções eficientes, aprender novas tecnologias e transforma
 
 ---
 
-⭐ *“Sempre aprendendo, evoluindo e criando soluções com propósito.”*  
-
+⭐ *“Sempre aprendendo, evoluindo e criando soluções com propósito.”*
