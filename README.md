@@ -19,7 +19,6 @@
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Guilherme;Desenvolvedor+Back-End+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas)
 
 
 <details>
@@ -105,5 +104,5 @@
 
 <details> <summary>Quote</summary> <br> <blockquote> “Sempre aprendendo, evoluindo e criando soluções com propósito.” <br><strong>— Guilherme</strong> </blockquote> </details>
 
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Guilherme;Desenvolvedor+Back-End+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas)
 </div>
