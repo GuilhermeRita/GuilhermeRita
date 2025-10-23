@@ -24,7 +24,7 @@
 </div>
 
 <details>
-<summary>About me</summary>
+<summary>Sobre Mim</summary>
 
 [//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
 
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>Ferramentas</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
@@ -69,8 +69,6 @@
       <kbd>Database & BI</kbd>
       <br><br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="mysql" title="MySQL"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgres" title="Postgres"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="mongodb" title="MongoDB"/>
       <img width="30px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI"/>
     </kbd>
     <kbd>
@@ -101,7 +99,7 @@
 </details>
 
 <details>
-  <summary>Contact</summary>
+  <summary>Contato</summary>
   <br>
   <p align="center">
     <a href="mailto:contatoguilhermeau@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -111,13 +109,6 @@
 
 <details> <summary>Quote</summary> <br> <blockquote> “Sempre aprendendo, evoluindo e criando soluções com propósito.” <br><strong>— Guilherme</strong> </blockquote> </details>
 
-<details>
-  <summary>Free DOSE hit</summary>
-  <br>
-  <small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-  <br>
-  <div align="center"><img src="https://readme-jokes.vercel.app/api?theme=monokai" alt="Jokes Card" /></div>
-</details>
 
 
 
