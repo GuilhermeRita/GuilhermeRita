@@ -15,16 +15,13 @@
 
 <br>
 
-<div align="center">
-  <img height="200" alt="Avatar photo of Guilherme" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9">
-</div>
+<img height="200" alt="Avatar photo of Guilherme" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" />
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Guilherme;Desenvolvedor+Back-End+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas" alt="Typing SVG">
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Olá,+eu+sou+Guilherme;Desenvolvedor+Back-End+e+DBA;Apaixonado+por+dados+e+tecnologia;Curioso+e+explorador+de+sistemas)
 
 <details>
 <summary>Sobre Mim</summary>
+
 <div align="left">
 
 ```js
@@ -48,33 +45,33 @@
 
 <details>
 <summary>Ferramentas</summary>
-<div align="center">
-  <p style="display: inline-block;">
-    <kbd>
-      <kbd>Programming Languages</kbd><br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
-      <img width="30px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#"/>
-    </kbd>
-    <kbd>
-      <kbd>Database & BI</kbd><br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL"/>
-      <img width="30px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-    </kbd>
-    <kbd>
-      <kbd>Back-end</kbd><br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express"/>
-    </kbd>
-    <kbd>
-      <kbd>Front-end</kbd><br><br>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS"/>
-      <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
-    </kbd>
-  </p>
-</div>
+
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Programming Languages</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+    <img width="30px" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#"/>
+  </kbd>
+  <kbd>
+    <kbd>Database & BI</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" alt="MySQL"/>
+    <img width="30px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  </kbd>
+  <kbd>
+    <kbd>Back-end</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="Express"/>
+  </kbd>
+  <kbd>
+    <kbd>Front-end</kbd><br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" alt="CSS"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  </kbd>
+</p>
+
 </details>
 
 <details>
@@ -104,5 +101,4 @@
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
-
 </div>
