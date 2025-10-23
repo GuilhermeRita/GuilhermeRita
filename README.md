@@ -1,6 +1,9 @@
 <p align = "center">
 	<img src="https://komarev.com/ghpvc/?username=GuilhermeRita&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
+<p align = "center">
+	<img height="200" alt="Avatar photo of Guilherme" src="https://github.com/GuilhermeRita/GuilhermeRita/assets/99239411/avatar.jpg">
+</p>
 
 <div align="center">
 
@@ -35,14 +38,7 @@
 
  */
 ```
-
-</div>
-
-</details>
-
-</details>
-
-<details>
+	<details>
 <summary>Ferramentas</summary>
 <div>
   <p style="display: inline-block;" align="center">
@@ -97,6 +93,14 @@
 </details>
 
 <details> <summary>Quote</summary> <br> <blockquote> “Sempre aprendendo, evoluindo e criando soluções com propósito.” <br><strong>— Guilherme</strong> </blockquote> </details>
+
+</div>
+
+</details>
+
+</details>
+
+
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 </div>
