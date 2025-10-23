@@ -23,17 +23,7 @@
 
 ```js
 /**
- * Represents Guilherme.
- *
- * @constructor
- * @param {string} location - São Paulo, Brasil.
- * @param {string} languages - Português, Inglês.
- * @param {string} jobTitle - Desenvolvedor Back-End / DBA.
- * @param {string} skills - Java, C++, Visual Basic, JS, SQL, Power BI, Engenharia de Software.
- * @param {string} interests - Aprender novas tecnologias, bancos de dados e sistemas eficientes.
- * @param {string} education - Técnico pela ETEC; ADS na Fatec.
- * @param {string} approachable - Sim, aberto a projetos e colaborações.
- * @param {string} motto - Sempre aprendendo, evoluindo e criando soluções com propósito
+ * Representa Guilherme.
  */
 ```
 
@@ -42,7 +32,6 @@
 
 <details>
 <summary>Ferramentas</summary>
-
 <p align="center">
 <kbd>
   <kbd>Programming Languages</kbd><br><br>
@@ -75,7 +64,6 @@
 
 <details>
 <summary>GitHub Stats</summary>
-
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeRita&show_icons=true&theme=radical" alt="GitHub Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeRita&layout=compact&theme=radical" alt="Top Languages">
@@ -97,4 +85,3 @@
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 </div>
-
