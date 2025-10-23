@@ -13,7 +13,7 @@
 <details>
 <summary>Abrir Perfil</summary>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+
 <br>
 <img height="200" alt="Avatar photo of Guilherme" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" />
 
@@ -103,5 +103,5 @@
 
 <details> <summary>Quote</summary> <br> <blockquote> “Sempre aprendendo, evoluindo e criando soluções com propósito.” <br><strong>— Guilherme</strong> </blockquote> </details>
 
-
+![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 </div>
