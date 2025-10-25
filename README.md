@@ -57,6 +57,7 @@
   <kbd>
     <kbd>Database & BI</kbd><br><br>
     <img width="30px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" alt="MySQL"/>
+    <img width="30px" src="https://www.svgrepo.com/show/17800/sql.svg" alt="SQL File"/>
     <img width="30px" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
   </kbd>
   <kbd>
